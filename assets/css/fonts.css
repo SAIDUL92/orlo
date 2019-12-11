@@ -1,0 +1,86 @@
+/* local fonts */
+
+@font-face {
+    /* FontsFree-Net-Proxima-Nova-Light.eot */
+    font-family: "ProximaNova-Light";
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Light.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Light.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Light.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Light.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Regular";
+    src: url("../webfonts/FontsFree-Net-proximanovareg-webfont.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-proximanovareg-webfont.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-proximanovareg-webfont.svg") format("svg"), /* Legacy iOS */
+    url("../webfonts/FontsFree-Net-proximanovareg-webfont.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-proximanovareg-webfont.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-proximanovareg-webfont.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Medium";
+    src: url("../webfonts/FontsFree-Net-pr14.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-pr14.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-pr14.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/FontsFree-Net-pr14.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-pr14.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-pr14.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Semibold";
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Sbold.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Bold";
+    src: url("../webfonts/proximanova-bold.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/proximanova-bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/proximanova-bold.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/proximanova-bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/proximanova-bold.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/proximanova-bold.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Black";
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Black.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Black.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Black.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Black.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Black.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Black.woff2") format("woff2");
+    /* Modern Browsers */
+}
+
+@font-face {
+    font-family: "ProximaNova-Extrabld";
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.eot");
+    /* IE9 Compat Modes */
+    src: url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.otf") format("opentype"), /* Open Type Font */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.woff") format("woff"), /* Modern Browsers */
+    url("../webfonts/FontsFree-Net-Proxima-Nova-Xbold.woff2") format("woff2");
+    /* Modern Browsers */
+}
